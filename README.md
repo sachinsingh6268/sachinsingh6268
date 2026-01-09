@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Singh</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 - ⚡ **Learning**
 
@@ -10,6 +10,6 @@
 <a href="https://leetcode.com/u/Looser_2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin_2022" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinsingh6268&show_icons=true&locale=en&layout=compact" alt="sachinsingh6268" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinsingh6268&show_icons=true&locale=en&layout=compact" alt="sachinsingh6268" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinsingh6268&show_icons=true&locale=en" alt="sachinsingh6268" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinsingh6268&show_icons=true&locale=en" alt="sachinsingh6268" /></p> -->
